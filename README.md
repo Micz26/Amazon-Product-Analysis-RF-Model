@@ -9,3 +9,5 @@ Through this holistic analysis, the project seeks to offer actionable insights t
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
+## Contact
+mail: mikolajczachorowski260203@gmail.com
