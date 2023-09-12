@@ -6,4 +6,6 @@ The project also involves comparing revenue, demand, and ratings against other p
 
 Through this holistic analysis, the project seeks to offer actionable insights that steer effective business strategies and aid in the selection of the most advantageous products for the market.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
